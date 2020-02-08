@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuEn_Dictionary", "RuEn_Dictionary\RuEn_Dictionary.csproj", "{D02BE10A-4586-40EE-B6CD-D554B9800091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02BE10A-4586-40EE-B6CD-D554B9800091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02BE10A-4586-40EE-B6CD-D554B9800091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02BE10A-4586-40EE-B6CD-D554B9800091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02BE10A-4586-40EE-B6CD-D554B9800091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0833FC7-45EE-4331-B864-73A7C0272376}
+	EndGlobalSection
+EndGlobal
